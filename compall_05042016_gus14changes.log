@@ -1,0 +1,1453 @@
+mar. avril  5 15:38:16 CEST 2016
+======================== blas ==============================
+mar. avril  5 15:38:16 CEST 2016
+Copying source code, blas.src does not require activation.
+mar. avril  5 15:38:19 CEST 2016
+1.607u 0.036s 0:03.11 52.4%	0+0k 0+992io 0pf+0w
+======================== mpcdatpm6 ==============================
+mar. avril  5 15:38:19 CEST 2016
+Copying source code, mpcdatpm6.src does not require activation.
+mar. avril  5 15:38:20 CEST 2016
+0.115u 0.023s 0:00.41 31.7%	0+0k 0+992io 0pf+0w
+======================== mpchbond ==============================
+mar. avril  5 15:38:20 CEST 2016
+Copying source code, mpchbond.src does not require activation.
+mar. avril  5 15:38:21 CEST 2016
+0.568u 0.034s 0:01.32 44.6%	0+0k 0+968io 0pf+0w
+======================== rmddat ==============================
+mar. avril  5 15:38:21 CEST 2016
+Copying source code, rmddat.src does not require activation.
+mar. avril  5 15:38:22 CEST 2016
+0.036u 0.026s 0:00.40 12.5%	0+0k 0+88io 0pf+0w
+======================== aldeci ==============================
+mar. avril  5 15:38:22 CEST 2016
+Activating /home/common/gamess14/gamess/source/aldeci.src to create aldeci.f for target linux64...
+mar. avril  5 15:38:33 CEST 2016
+5.684u 0.121s 0:11.82 49.0%	0+0k 0+7320io 0pf+0w
+======================== algnci ==============================
+mar. avril  5 15:38:34 CEST 2016
+Copying source code, algnci.src does not require activation.
+mar. avril  5 15:38:42 CEST 2016
+4.520u 0.066s 0:08.74 52.4%	0+0k 0+4536io 0pf+0w
+======================== basccn ==============================
+mar. avril  5 15:38:42 CEST 2016
+Copying source code, basccn.src does not require activation.
+mar. avril  5 15:38:57 CEST 2016
+8.270u 0.206s 0:14.45 58.6%	0+0k 0+17152io 0pf+0w
+======================== basecp ==============================
+mar. avril  5 15:38:57 CEST 2016
+Copying source code, basecp.src does not require activation.
+mar. avril  5 15:38:59 CEST 2016
+1.149u 0.046s 0:02.25 52.4%	0+0k 0+1808io 0pf+0w
+======================== basext ==============================
+mar. avril  5 15:38:59 CEST 2016
+Copying source code, basext.src does not require activation.
+mar. avril  5 15:39:01 CEST 2016
+0.825u 0.034s 0:01.63 52.1%	0+0k 0+1384io 0pf+0w
+======================== basg3l ==============================
+mar. avril  5 15:39:01 CEST 2016
+Copying source code, basg3l.src does not require activation.
+mar. avril  5 15:39:01 CEST 2016
+0.406u 0.025s 0:00.64 65.6%	0+0k 0+776io 0pf+0w
+======================== basg3x ==============================
+mar. avril  5 15:39:01 CEST 2016
+Copying source code, basg3x.src does not require activation.
+mar. avril  5 15:39:02 CEST 2016
+0.622u 0.025s 0:01.04 61.5%	0+0k 0+1160io 0pf+0w
+======================== bashuz ==============================
+mar. avril  5 15:39:02 CEST 2016
+Copying source code, bashuz.src does not require activation.
+mar. avril  5 15:39:03 CEST 2016
+0.595u 0.040s 0:01.13 55.7%	0+0k 0+1088io 0pf+0w
+======================== bashz2 ==============================
+mar. avril  5 15:39:03 CEST 2016
+Copying source code, bashz2.src does not require activation.
+mar. avril  5 15:39:04 CEST 2016
+0.532u 0.035s 0:01.01 55.4%	0+0k 0+1032io 0pf+0w
+======================== baskar ==============================
+mar. avril  5 15:39:05 CEST 2016
+Copying source code, baskar.src does not require activation.
+mar. avril  5 15:39:06 CEST 2016
+0.842u 0.035s 0:01.40 62.1%	0+0k 0+1336io 0pf+0w
+======================== basn21 ==============================
+mar. avril  5 15:39:06 CEST 2016
+Copying source code, basn21.src does not require activation.
+mar. avril  5 15:39:07 CEST 2016
+0.602u 0.028s 0:01.03 60.1%	0+0k 0+1248io 0pf+0w
+======================== basn31 ==============================
+mar. avril  5 15:39:07 CEST 2016
+Copying source code, basn31.src does not require activation.
+mar. avril  5 15:39:08 CEST 2016
+0.900u 0.046s 0:01.61 58.3%	0+0k 0+1264io 0pf+0w
+======================== baspcn ==============================
+mar. avril  5 15:39:09 CEST 2016
+Copying source code, baspcn.src does not require activation.
+mar. avril  5 15:39:17 CEST 2016
+4.737u 0.099s 0:08.88 54.2%	0+0k 0+6000io 0pf+0w
+======================== bassto ==============================
+mar. avril  5 15:39:17 CEST 2016
+Copying source code, bassto.src does not require activation.
+mar. avril  5 15:39:18 CEST 2016
+0.305u 0.027s 0:00.38 84.2%	0+0k 0+712io 0pf+0w
+======================== casino ==============================
+mar. avril  5 15:39:18 CEST 2016
+Copying source code, casino.src does not require activation.
+mar. avril  5 15:39:18 CEST 2016
+0.218u 0.018s 0:00.28 78.5%	0+0k 0+336io 0pf+0w
+======================== ccaux ==============================
+mar. avril  5 15:39:18 CEST 2016
+Copying source code, ccaux.src does not require activation.
+mar. avril  5 15:39:20 CEST 2016
+1.026u 0.043s 0:01.98 53.5%	0+0k 0+1248io 0pf+0w
+======================== cchdmy ==============================
+mar. avril  5 15:39:20 CEST 2016
+Copying source code, cchdmy.src does not require activation.
+mar. avril  5 15:39:20 CEST 2016
+0.044u 0.021s 0:00.29 20.6%	0+0k 0+80io 0pf+0w
+======================== ccddi ==============================
+mar. avril  5 15:39:20 CEST 2016
+Copying source code, ccddi.src does not require activation.
+mar. avril  5 15:39:26 CEST 2016
+4.321u 0.072s 0:05.59 78.5%	0+0k 0+3424io 0pf+0w
+======================== ccqaux ==============================
+mar. avril  5 15:39:26 CEST 2016
+Copying source code, ccqaux.src does not require activation.
+mar. avril  5 15:39:33 CEST 2016
+3.955u 0.057s 0:06.65 60.1%	0+0k 0+1536io 0pf+0w
+======================== ccquad ==============================
+mar. avril  5 15:39:33 CEST 2016
+Copying source code, ccquad.src does not require activation.
+mar. avril  5 15:39:35 CEST 2016
+1.363u 0.056s 0:02.24 62.9%	0+0k 0+2808io 0pf+0w
+======================== ccsdt ==============================
+mar. avril  5 15:39:35 CEST 2016
+Activating /home/common/gamess14/gamess/source/ccsdt.src to create ccsdt.f for target linux64...
+mar. avril  5 15:39:37 CEST 2016
+1.559u 0.047s 0:02.38 66.8%	0+0k 0+2816io 0pf+0w
+======================== ceeis ==============================
+mar. avril  5 15:39:37 CEST 2016
+Copying source code, ceeis.src does not require activation.
+mar. avril  5 15:39:40 CEST 2016
+1.351u 0.046s 0:02.34 59.4%	0+0k 0+1648io 0pf+0w
+======================== cepa ==============================
+mar. avril  5 15:39:40 CEST 2016
+Copying source code, cepa.src does not require activation.
+mar. avril  5 15:39:45 CEST 2016
+2.777u 0.063s 0:05.15 54.9%	0+0k 0+1880io 0pf+0w
+======================== chgpen ==============================
+mar. avril  5 15:39:45 CEST 2016
+Copying source code, chgpen.src does not require activation.
+mar. avril  5 15:39:47 CEST 2016
+1.014u 0.036s 0:01.78 58.4%	0+0k 0+1440io 0pf+0w
+======================== cimf ==============================
+mar. avril  5 15:39:47 CEST 2016
+Copying source code, cimf.src does not require activation.
+mar. avril  5 15:39:51 CEST 2016
+2.529u 0.089s 0:04.37 59.4%	0+0k 0+1232io 0pf+0w
+======================== ciminf ==============================
+mar. avril  5 15:39:51 CEST 2016
+Copying source code, ciminf.src does not require activation.
+mar. avril  5 15:39:51 CEST 2016
+0.431u 0.023s 0:00.48 93.7%	0+0k 0+1080io 0pf+0w
+======================== cimi ==============================
+mar. avril  5 15:39:52 CEST 2016
+Copying source code, cimi.src does not require activation.
+mar. avril  5 15:40:09 CEST 2016
+10.458u 0.152s 0:18.01 58.8%	0+0k 0+7744io 0pf+0w
+======================== cimlib ==============================
+mar. avril  5 15:40:10 CEST 2016
+Copying source code, cimlib.src does not require activation.
+mar. avril  5 15:40:10 CEST 2016
+0.132u 0.026s 0:00.38 39.4%	0+0k 0+288io 0pf+0w
+======================== cimsub ==============================
+mar. avril  5 15:40:10 CEST 2016
+Copying source code, cimsub.src does not require activation.
+mar. avril  5 15:40:16 CEST 2016
+4.480u 0.108s 0:06.46 70.8%	0+0k 0+7184io 0pf+0w
+======================== cisgrd ==============================
+mar. avril  5 15:40:16 CEST 2016
+Activating /home/common/gamess14/gamess/source/cisgrd.src to create cisgrd.f for target linux64...
+mar. avril  5 15:40:20 CEST 2016
+1.733u 0.060s 0:03.37 53.1%	0+0k 0+2296io 0pf+0w
+======================== comp ==============================
+mar. avril  5 15:40:20 CEST 2016
+Copying source code, comp.src does not require activation.
+mar. avril  5 15:40:22 CEST 2016
+0.862u 0.042s 0:02.07 43.4%	0+0k 0+2344io 0pf+0w
+======================== cosmo ==============================
+mar. avril  5 15:40:22 CEST 2016
+Copying source code, cosmo.src does not require activation.
+mar. avril  5 15:40:25 CEST 2016
+1.495u 0.053s 0:03.23 47.6%	0+0k 0+2616io 0pf+0w
+======================== cosprt ==============================
+mar. avril  5 15:40:25 CEST 2016
+Copying source code, cosprt.src does not require activation.
+mar. avril  5 15:40:25 CEST 2016
+0.065u 0.021s 0:00.40 20.0%	0+0k 0+184io 0pf+0w
+======================== cphf ==============================
+mar. avril  5 15:40:26 CEST 2016
+Activating /home/common/gamess14/gamess/source/cphf.src to create cphf.f for target linux64...
+mar. avril  5 15:40:30 CEST 2016
+3.190u 0.076s 0:04.61 70.7%	0+0k 0+4456io 0pf+0w
+======================== cpmchf ==============================
+mar. avril  5 15:40:30 CEST 2016
+Activating /home/common/gamess14/gamess/source/cpmchf.src to create cpmchf.f for target linux64...
+mar. avril  5 15:40:56 CEST 2016
+15.078u 0.203s 0:25.72 59.3%	0+0k 0+14840io 0pf+0w
+======================== cprohf ==============================
+mar. avril  5 15:40:56 CEST 2016
+Activating /home/common/gamess14/gamess/source/cprohf.src to create cprohf.f for target linux64...
+mar. avril  5 15:40:59 CEST 2016
+1.851u 0.066s 0:03.04 62.8%	0+0k 0+1568io 0pf+0w
+======================== cpuhf ==============================
+mar. avril  5 15:40:59 CEST 2016
+Activating /home/common/gamess14/gamess/source/cpuhf.src to create cpuhf.f for target linux64...
+mar. avril  5 15:41:03 CEST 2016
+2.099u 0.053s 0:03.79 56.4%	0+0k 0+2184io 0pf+0w
+======================== dccc ==============================
+mar. avril  5 15:41:03 CEST 2016
+Copying source code, dccc.src does not require activation.
+mar. avril  5 15:41:04 CEST 2016
+0.706u 0.036s 0:01.17 62.3%	0+0k 0+1360io 0pf+0w
+======================== dcgrd ==============================
+mar. avril  5 15:41:04 CEST 2016
+Copying source code, dcgrd.src does not require activation.
+mar. avril  5 15:41:04 CEST 2016
+0.110u 0.021s 0:00.43 30.2%	0+0k 0+200io 0pf+0w
+======================== dcgues ==============================
+mar. avril  5 15:41:04 CEST 2016
+Copying source code, dcgues.src does not require activation.
+mar. avril  5 15:41:05 CEST 2016
+0.613u 0.032s 0:00.84 76.1%	0+0k 0+1200io 0pf+0w
+======================== dcint2 ==============================
+mar. avril  5 15:41:05 CEST 2016
+Activating /home/common/gamess14/gamess/source/dcint2.src to create dcint2.f for target linux64...
+mar. avril  5 15:41:06 CEST 2016
+0.466u 0.031s 0:00.54 90.7%	0+0k 0+608io 0pf+0w
+======================== dclib ==============================
+mar. avril  5 15:41:06 CEST 2016
+Copying source code, dclib.src does not require activation.
+mar. avril  5 15:41:08 CEST 2016
+1.073u 0.046s 0:02.35 47.2%	0+0k 0+1968io 0pf+0w
+======================== dcmp2 ==============================
+mar. avril  5 15:41:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/dcmp2.src to create dcmp2.f for target linux64...
+mar. avril  5 15:41:12 CEST 2016
+2.451u 0.056s 0:04.00 62.5%	0+0k 0+3120io 0pf+0w
+======================== dcscf ==============================
+mar. avril  5 15:41:12 CEST 2016
+Copying source code, dcscf.src does not require activation.
+mar. avril  5 15:41:17 CEST 2016
+2.846u 0.095s 0:05.00 58.6%	0+0k 0+2280io 0pf+0w
+======================== dctran ==============================
+mar. avril  5 15:41:17 CEST 2016
+Activating /home/common/gamess14/gamess/source/dctran.src to create dctran.f for target linux64...
+mar. avril  5 15:41:18 CEST 2016
+0.576u 0.038s 0:01.10 54.5%	0+0k 0+912io 0pf+0w
+======================== ddilib ==============================
+mar. avril  5 15:41:18 CEST 2016
+Copying source code, ddilib.src does not require activation.
+mar. avril  5 15:41:19 CEST 2016
+0.087u 0.025s 0:00.36 27.7%	0+0k 0+208io 0pf+0w
+======================== delocl ==============================
+mar. avril  5 15:41:19 CEST 2016
+Copying source code, delocl.src does not require activation.
+mar. avril  5 15:41:20 CEST 2016
+0.663u 0.045s 0:01.04 67.3%	0+0k 0+896io 0pf+0w
+======================== demrpt ==============================
+mar. avril  5 15:41:20 CEST 2016
+Copying source code, demrpt.src does not require activation.
+mar. avril  5 15:41:57 CEST 2016
+21.010u 0.129s 0:37.45 56.4%	0+0k 0+5608io 0pf+0w
+======================== dft ==============================
+mar. avril  5 15:41:57 CEST 2016
+Activating /home/common/gamess14/gamess/source/dft.src to create dft.f for target linux64...
+mar. avril  5 15:41:58 CEST 2016
+0.580u 0.036s 0:01.15 53.0%	0+0k 0+1376io 0pf+0w
+======================== dftaux ==============================
+mar. avril  5 15:41:58 CEST 2016
+Copying source code, dftaux.src does not require activation.
+mar. avril  5 15:42:02 CEST 2016
+1.551u 0.040s 0:03.36 47.3%	0+0k 0+1520io 0pf+0w
+======================== dftbfo ==============================
+mar. avril  5 15:42:02 CEST 2016
+Copying source code, dftbfo.src does not require activation.
+mar. avril  5 15:42:03 CEST 2016
+0.829u 0.029s 0:01.43 58.7%	0+0k 0+1448io 0pf+0w
+======================== dftbgr ==============================
+mar. avril  5 15:42:03 CEST 2016
+Copying source code, dftbgr.src does not require activation.
+mar. avril  5 15:42:04 CEST 2016
+0.454u 0.047s 0:01.07 45.7%	0+0k 0+856io 0pf+0w
+======================== dftbhs ==============================
+mar. avril  5 15:42:04 CEST 2016
+Copying source code, dftbhs.src does not require activation.
+mar. avril  5 15:42:07 CEST 2016
+2.016u 0.059s 0:02.64 78.0%	0+0k 0+2632io 0pf+0w
+======================== dftblb ==============================
+mar. avril  5 15:42:07 CEST 2016
+Copying source code, dftblb.src does not require activation.
+mar. avril  5 15:42:08 CEST 2016
+0.558u 0.041s 0:01.20 49.1%	0+0k 0+1344io 0pf+0w
+======================== dftbsk ==============================
+mar. avril  5 15:42:08 CEST 2016
+Copying source code, dftbsk.src does not require activation.
+mar. avril  5 15:42:10 CEST 2016
+1.266u 0.040s 0:02.26 57.5%	0+0k 0+2112io 0pf+0w
+======================== dftbx ==============================
+mar. avril  5 15:42:10 CEST 2016
+Copying source code, dftbx.src does not require activation.
+mar. avril  5 15:42:20 CEST 2016
+5.509u 0.113s 0:09.77 57.4%	0+0k 0+3496io 0pf+0w
+======================== dftdis ==============================
+mar. avril  5 15:42:20 CEST 2016
+Copying source code, dftdis.src does not require activation.
+mar. avril  5 15:42:23 CEST 2016
+1.535u 0.077s 0:02.55 62.7%	0+0k 0+11280io 0pf+0w
+======================== dftfun ==============================
+mar. avril  5 15:42:23 CEST 2016
+Copying source code, dftfun.src does not require activation.
+mar. avril  5 15:42:30 CEST 2016
+3.846u 0.041s 0:07.24 53.5%	0+0k 0+1424io 0pf+0w
+======================== dftgrd ==============================
+mar. avril  5 15:42:30 CEST 2016
+Copying source code, dftgrd.src does not require activation.
+mar. avril  5 15:42:33 CEST 2016
+1.995u 0.054s 0:03.24 62.9%	0+0k 0+2872io 0pf+0w
+======================== dftint ==============================
+mar. avril  5 15:42:33 CEST 2016
+Activating /home/common/gamess14/gamess/source/dftint.src to create dftint.f for target linux64...
+mar. avril  5 15:42:35 CEST 2016
+1.217u 0.038s 0:02.33 53.2%	0+0k 0+1640io 0pf+0w
+======================== dftxca ==============================
+mar. avril  5 15:42:36 CEST 2016
+Copying source code, dftxca.src does not require activation.
+mar. avril  5 15:42:39 CEST 2016
+1.694u 0.062s 0:03.42 51.1%	0+0k 0+3080io 0pf+0w
+======================== dftxcb ==============================
+mar. avril  5 15:42:39 CEST 2016
+Copying source code, dftxcb.src does not require activation.
+mar. avril  5 15:43:37 CEST 2016
+31.610u 0.144s 0:58.17 54.5%	0+0k 0+7496io 0pf+0w
+======================== dftxcc ==============================
+mar. avril  5 15:43:37 CEST 2016
+Copying source code, dftxcc.src does not require activation.
+mar. avril  5 15:43:39 CEST 2016
+0.691u 0.040s 0:01.55 47.0%	0+0k 0+1656io 0pf+0w
+======================== dftxcd ==============================
+mar. avril  5 15:43:39 CEST 2016
+Copying source code, dftxcd.src does not require activation.
+mar. avril  5 15:43:52 CEST 2016
+8.023u 0.081s 0:13.60 59.5%	0+0k 0+1576io 0pf+0w
+======================== dftxce ==============================
+mar. avril  5 15:43:52 CEST 2016
+Copying source code, dftxce.src does not require activation.
+mar. avril  5 15:44:14 CEST 2016
+12.836u 0.083s 0:22.09 58.4%	0+0k 0+4136io 0pf+0w
+======================== dftxcf ==============================
+mar. avril  5 15:44:14 CEST 2016
+Copying source code, dftxcf.src does not require activation.
+mar. avril  5 15:44:16 CEST 2016
+0.853u 0.039s 0:01.84 47.8%	0+0k 0+1832io 0pf+0w
+======================== dftxcg ==============================
+mar. avril  5 15:44:16 CEST 2016
+Copying source code, dftxcg.src does not require activation.
+mar. avril  5 15:44:27 CEST 2016
+5.980u 0.072s 0:11.04 54.8%	0+0k 0+1624io 0pf+0w
+======================== diab ==============================
+mar. avril  5 15:44:27 CEST 2016
+Copying source code, diab.src does not require activation.
+mar. avril  5 15:44:31 CEST 2016
+1.948u 0.054s 0:03.64 54.6%	0+0k 0+3040io 0pf+0w
+======================== dgeev ==============================
+mar. avril  5 15:44:31 CEST 2016
+Copying source code, dgeev.src does not require activation.
+mar. avril  5 15:44:36 CEST 2016
+2.533u 0.056s 0:04.82 53.5%	0+0k 0+2696io 0pf+0w
+======================== dgesvd ==============================
+mar. avril  5 15:44:36 CEST 2016
+Copying source code, dgesvd.src does not require activation.
+mar. avril  5 15:44:41 CEST 2016
+2.186u 0.051s 0:04.97 44.8%	0+0k 0+3272io 0pf+0w
+======================== dmulti ==============================
+mar. avril  5 15:44:41 CEST 2016
+Copying source code, dmulti.src does not require activation.
+mar. avril  5 15:44:45 CEST 2016
+2.163u 0.038s 0:04.42 49.5%	0+0k 0+1616io 0pf+0w
+======================== drc ==============================
+mar. avril  5 15:44:45 CEST 2016
+Copying source code, drc.src does not require activation.
+mar. avril  5 15:44:47 CEST 2016
+0.735u 0.035s 0:01.56 48.7%	0+0k 0+792io 0pf+0w
+======================== eaipcc ==============================
+mar. avril  5 15:44:47 CEST 2016
+Copying source code, eaipcc.src does not require activation.
+mar. avril  5 15:44:57 CEST 2016
+6.011u 0.154s 0:10.77 57.1%	0+0k 0+9024io 0pf+0w
+======================== ecp ==============================
+mar. avril  5 15:44:58 CEST 2016
+Copying source code, ecp.src does not require activation.
+mar. avril  5 15:45:00 CEST 2016
+1.039u 0.038s 0:02.12 50.0%	0+0k 0+1096io 0pf+0w
+======================== ecpder ==============================
+mar. avril  5 15:45:00 CEST 2016
+Copying source code, ecpder.src does not require activation.
+mar. avril  5 15:45:13 CEST 2016
+7.832u 0.066s 0:13.87 56.8%	0+0k 0+1576io 0pf+0w
+======================== ecplib ==============================
+mar. avril  5 15:45:14 CEST 2016
+Copying source code, ecplib.src does not require activation.
+mar. avril  5 15:45:15 CEST 2016
+0.896u 0.041s 0:01.80 51.6%	0+0k 0+1432io 0pf+0w
+======================== ecppot ==============================
+mar. avril  5 15:45:15 CEST 2016
+Copying source code, ecppot.src does not require activation.
+mar. avril  5 15:45:16 CEST 2016
+0.087u 0.024s 0:00.39 25.6%	0+0k 0+448io 0pf+0w
+======================== efchtr ==============================
+mar. avril  5 15:45:16 CEST 2016
+Copying source code, efchtr.src does not require activation.
+mar. avril  5 15:45:23 CEST 2016
+3.525u 0.066s 0:07.22 49.5%	0+0k 0+3208io 0pf+0w
+======================== efdrvr ==============================
+mar. avril  5 15:45:23 CEST 2016
+Copying source code, efdrvr.src does not require activation.
+mar. avril  5 15:45:25 CEST 2016
+0.910u 0.056s 0:01.67 57.4%	0+0k 0+1136io 0pf+0w
+======================== efelec ==============================
+mar. avril  5 15:45:25 CEST 2016
+Copying source code, efelec.src does not require activation.
+mar. avril  5 15:45:30 CEST 2016
+2.346u 0.067s 0:05.26 45.6%	0+0k 0+3520io 0pf+0w
+======================== efgrd2 ==============================
+mar. avril  5 15:45:30 CEST 2016
+Copying source code, efgrd2.src does not require activation.
+mar. avril  5 15:45:34 CEST 2016
+2.268u 0.059s 0:03.83 60.3%	0+0k 0+1424io 0pf+0w
+======================== efgrda ==============================
+mar. avril  5 15:45:34 CEST 2016
+Copying source code, efgrda.src does not require activation.
+mar. avril  5 15:45:35 CEST 2016
+0.728u 0.034s 0:01.42 52.8%	0+0k 0+1080io 0pf+0w
+======================== efgrdb ==============================
+mar. avril  5 15:45:35 CEST 2016
+Copying source code, efgrdb.src does not require activation.
+mar. avril  5 15:45:38 CEST 2016
+1.542u 0.042s 0:02.98 53.0%	0+0k 0+1552io 0pf+0w
+======================== efgrdc ==============================
+mar. avril  5 15:45:38 CEST 2016
+Copying source code, efgrdc.src does not require activation.
+mar. avril  5 15:45:46 CEST 2016
+3.951u 0.069s 0:07.95 50.4%	0+0k 0+2848io 0pf+0w
+======================== efinp ==============================
+mar. avril  5 15:45:46 CEST 2016
+Copying source code, efinp.src does not require activation.
+mar. avril  5 15:45:55 CEST 2016
+5.046u 0.151s 0:09.09 57.0%	0+0k 0+7408io 0pf+0w
+======================== efinta ==============================
+mar. avril  5 15:45:55 CEST 2016
+Copying source code, efinta.src does not require activation.
+mar. avril  5 15:46:00 CEST 2016
+2.546u 0.056s 0:04.52 57.3%	0+0k 0+2496io 0pf+0w
+======================== efintb ==============================
+mar. avril  5 15:46:00 CEST 2016
+Copying source code, efintb.src does not require activation.
+mar. avril  5 15:46:02 CEST 2016
+1.205u 0.051s 0:02.15 58.1%	0+0k 0+1816io 0pf+0w
+======================== efmo ==============================
+mar. avril  5 15:46:02 CEST 2016
+Copying source code, efmo.src does not require activation.
+mar. avril  5 15:46:03 CEST 2016
+0.536u 0.032s 0:01.28 43.7%	0+0k 0+1120io 0pf+0w
+======================== efpaul ==============================
+mar. avril  5 15:46:03 CEST 2016
+Activating /home/common/gamess14/gamess/source/efpaul.src to create efpaul.f for target linux64...
+mar. avril  5 15:46:14 CEST 2016
+6.128u 0.108s 0:10.74 57.9%	0+0k 0+4840io 0pf+0w
+======================== efpcm ==============================
+mar. avril  5 15:46:14 CEST 2016
+Copying source code, efpcm.src does not require activation.
+mar. avril  5 15:46:15 CEST 2016
+0.332u 0.039s 0:00.97 37.1%	0+0k 0+312io 0pf+0w
+======================== efpcov ==============================
+mar. avril  5 15:46:15 CEST 2016
+Copying source code, efpcov.src does not require activation.
+mar. avril  5 15:46:18 CEST 2016
+1.557u 0.057s 0:02.58 62.0%	0+0k 0+1936io 0pf+0w
+======================== efpfmo ==============================
+mar. avril  5 15:46:18 CEST 2016
+Copying source code, efpfmo.src does not require activation.
+mar. avril  5 15:46:20 CEST 2016
+0.893u 0.042s 0:01.96 47.4%	0+0k 0+1384io 0pf+0w
+======================== eftei ==============================
+mar. avril  5 15:46:20 CEST 2016
+Activating /home/common/gamess14/gamess/source/eftei.src to create eftei.f for target linux64...
+mar. avril  5 15:46:20 CEST 2016
+0.354u 0.030s 0:00.74 51.3%	0+0k 0+880io 0pf+0w
+======================== eigen ==============================
+mar. avril  5 15:46:20 CEST 2016
+Copying source code, eigen.src does not require activation.
+mar. avril  5 15:46:21 CEST 2016
+0.110u 0.027s 0:00.29 44.8%	0+0k 0+352io 0pf+0w
+======================== elglib ==============================
+mar. avril  5 15:46:21 CEST 2016
+Copying source code, elglib.src does not require activation.
+mar. avril  5 15:46:21 CEST 2016
+0.275u 0.022s 0:00.33 87.8%	0+0k 0+432io 0pf+0w
+======================== elgloc ==============================
+mar. avril  5 15:46:21 CEST 2016
+Copying source code, elgloc.src does not require activation.
+mar. avril  5 15:46:24 CEST 2016
+1.502u 0.050s 0:03.22 48.1%	0+0k 0+1984io 0pf+0w
+======================== elgscf ==============================
+mar. avril  5 15:46:24 CEST 2016
+Activating /home/common/gamess14/gamess/source/elgscf.src to create elgscf.f for target linux64...
+mar. avril  5 15:46:37 CEST 2016
+6.287u 0.123s 0:12.83 49.8%	0+0k 0+6392io 0pf+0w
+======================== excorr ==============================
+mar. avril  5 15:46:37 CEST 2016
+Copying source code, excorr.src does not require activation.
+mar. avril  5 15:46:40 CEST 2016
+1.865u 0.062s 0:03.22 59.6%	0+0k 0+1864io 0pf+0w
+======================== eomcc ==============================
+mar. avril  5 15:46:40 CEST 2016
+Copying source code, eomcc.src does not require activation.
+mar. avril  5 15:46:46 CEST 2016
+3.162u 0.074s 0:06.13 52.6%	0+0k 0+5104io 0pf+0w
+======================== ewald ==============================
+mar. avril  5 15:46:46 CEST 2016
+Copying source code, ewald.src does not require activation.
+mar. avril  5 15:46:48 CEST 2016
+0.629u 0.033s 0:01.20 54.1%	0+0k 0+1200io 0pf+0w
+======================== ffield ==============================
+mar. avril  5 15:46:48 CEST 2016
+Copying source code, ffield.src does not require activation.
+mar. avril  5 15:46:49 CEST 2016
+0.591u 0.042s 0:01.40 45.0%	0+0k 0+1080io 0pf+0w
+======================== fmo ==============================
+mar. avril  5 15:46:49 CEST 2016
+Copying source code, fmo.src does not require activation.
+mar. avril  5 15:47:01 CEST 2016
+6.785u 0.208s 0:11.55 60.4%	0+0k 240+5016io 1pf+0w
+Compilation failure for fmo, please fix the problem.
+======================== fmocp ==============================
+mar. avril  5 15:47:01 CEST 2016
+Copying source code, fmocp.src does not require activation.
+mar. avril  5 15:47:03 CEST 2016
+1.321u 0.038s 0:02.63 51.3%	0+0k 0+1640io 0pf+0w
+======================== fmoesd ==============================
+mar. avril  5 15:47:03 CEST 2016
+Copying source code, fmoesd.src does not require activation.
+mar. avril  5 15:47:07 CEST 2016
+1.545u 0.046s 0:03.41 46.3%	0+0k 0+2216io 0pf+0w
+======================== fmogrd ==============================
+mar. avril  5 15:47:07 CEST 2016
+Activating /home/common/gamess14/gamess/source/fmogrd.src to create fmogrd.f for target linux64...
+mar. avril  5 15:47:09 CEST 2016
+1.163u 0.048s 0:02.21 54.2%	0+0k 0+2448io 0pf+0w
+======================== fmoh1a ==============================
+mar. avril  5 15:47:09 CEST 2016
+Copying source code, fmoh1a.src does not require activation.
+mar. avril  5 15:47:13 CEST 2016
+2.803u 0.055s 0:04.33 65.8%	0+0k 0+2272io 0pf+0w
+======================== fmoh2a ==============================
+mar. avril  5 15:47:13 CEST 2016
+Copying source code, fmoh2a.src does not require activation.
+mar. avril  5 15:47:15 CEST 2016
+1.020u 0.049s 0:01.99 53.2%	0+0k 0+1176io 0pf+0w
+======================== fmoh2b ==============================
+mar. avril  5 15:47:15 CEST 2016
+Copying source code, fmoh2b.src does not require activation.
+mar. avril  5 15:47:16 CEST 2016
+0.257u 0.037s 0:00.59 47.4%	0+0k 0+392io 0pf+0w
+======================== fmohss ==============================
+mar. avril  5 15:47:16 CEST 2016
+Copying source code, fmohss.src does not require activation.
+mar. avril  5 15:47:18 CEST 2016
+1.166u 0.055s 0:02.30 52.6%	0+0k 0+1464io 0pf+0w
+======================== fmoint ==============================
+mar. avril  5 15:47:18 CEST 2016
+Copying source code, fmoint.src does not require activation.
+mar. avril  5 15:47:21 CEST 2016
+1.823u 0.050s 0:03.30 56.6%	0+0k 0+2920io 0pf+0w
+======================== fmoio ==============================
+mar. avril  5 15:47:22 CEST 2016
+Copying source code, fmoio.src does not require activation.
+mar. avril  5 15:47:26 CEST 2016
+3.543u 0.087s 0:04.58 79.0%	0+0k 0+4392io 0pf+0w
+======================== fmolib ==============================
+mar. avril  5 15:47:26 CEST 2016
+Copying source code, fmolib.src does not require activation.
+mar. avril  5 15:47:29 CEST 2016
+1.900u 0.058s 0:03.02 64.5%	0+0k 0+3480io 0pf+0w
+======================== fmomm ==============================
+mar. avril  5 15:47:29 CEST 2016
+Copying source code, fmomm.src does not require activation.
+mar. avril  5 15:47:31 CEST 2016
+1.083u 0.036s 0:01.84 60.3%	0+0k 0+2128io 0pf+0w
+======================== fmopbc ==============================
+mar. avril  5 15:47:31 CEST 2016
+Copying source code, fmopbc.src does not require activation.
+mar. avril  5 15:47:31 CEST 2016
+0.398u 0.028s 0:00.46 89.1%	0+0k 0+752io 0pf+0w
+======================== fmoprp ==============================
+mar. avril  5 15:47:31 CEST 2016
+Copying source code, fmoprp.src does not require activation.
+mar. avril  5 15:47:34 CEST 2016
+1.376u 0.041s 0:02.52 55.9%	0+0k 0+2640io 0pf+0w
+======================== frfmt ==============================
+mar. avril  5 15:47:34 CEST 2016
+Copying source code, frfmt.src does not require activation.
+mar. avril  5 15:47:34 CEST 2016
+0.169u 0.027s 0:00.34 52.9%	0+0k 0+368io 0pf+0w
+======================== fsodci ==============================
+mar. avril  5 15:47:34 CEST 2016
+Copying source code, fsodci.src does not require activation.
+mar. avril  5 15:48:02 CEST 2016
+15.415u 0.131s 0:27.59 56.3%	0+0k 0+9664io 0pf+0w
+======================== g3 ==============================
+mar. avril  5 15:48:02 CEST 2016
+Copying source code, g3.src does not require activation.
+mar. avril  5 15:48:04 CEST 2016
+0.975u 0.050s 0:02.02 50.4%	0+0k 0+1368io 0pf+0w
+======================== gamess ==============================
+mar. avril  5 15:48:04 CEST 2016
+Copying source code, gamess.src does not require activation.
+mar. avril  5 15:48:05 CEST 2016
+0.572u 0.046s 0:01.38 44.2%	0+0k 0+1792io 0pf+0w
+======================== globop ==============================
+mar. avril  5 15:48:05 CEST 2016
+Copying source code, globop.src does not require activation.
+mar. avril  5 15:48:08 CEST 2016
+1.671u 0.058s 0:02.87 59.9%	0+0k 0+2088io 0pf+0w
+======================== gmcpt ==============================
+mar. avril  5 15:48:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/gmcpt.src to create gmcpt.f for target linux64...
+mar. avril  5 15:48:39 CEST 2016
+16.916u 0.146s 0:30.92 55.1%	0+0k 0+10936io 0pf+0w
+======================== gradex ==============================
+mar. avril  5 15:48:39 CEST 2016
+Copying source code, gradex.src does not require activation.
+mar. avril  5 15:48:44 CEST 2016
+2.637u 0.075s 0:04.39 61.5%	0+0k 0+1648io 0pf+0w
+======================== grd1 ==============================
+mar. avril  5 15:48:44 CEST 2016
+Copying source code, grd1.src does not require activation.
+mar. avril  5 15:48:46 CEST 2016
+1.227u 0.040s 0:02.02 62.3%	0+0k 0+1496io 0pf+0w
+======================== grd2a ==============================
+mar. avril  5 15:48:46 CEST 2016
+Activating /home/common/gamess14/gamess/source/grd2a.src to create grd2a.f for target linux64...
+mar. avril  5 15:48:49 CEST 2016
+1.653u 0.056s 0:03.32 51.2%	0+0k 0+2536io 0pf+0w
+======================== grd2b ==============================
+mar. avril  5 15:48:49 CEST 2016
+Copying source code, grd2b.src does not require activation.
+mar. avril  5 15:49:12 CEST 2016
+11.952u 0.193s 0:22.79 53.2%	0+0k 0+2360io 0pf+0w
+======================== grd2c ==============================
+mar. avril  5 15:49:12 CEST 2016
+Copying source code, grd2c.src does not require activation.
+mar. avril  5 15:49:20 CEST 2016
+4.176u 0.076s 0:07.89 53.7%	0+0k 0+1128io 0pf+0w
+======================== guess ==============================
+mar. avril  5 15:49:20 CEST 2016
+Copying source code, guess.src does not require activation.
+mar. avril  5 15:49:20 CEST 2016
+0.207u 0.024s 0:00.61 36.0%	0+0k 0+800io 0pf+0w
+======================== gugdga ==============================
+mar. avril  5 15:49:20 CEST 2016
+Activating /home/common/gamess14/gamess/source/gugdga.src to create gugdga.f for target linux64...
+mar. avril  5 15:49:21 CEST 2016
+0.519u 0.040s 0:00.92 59.7%	0+0k 0+1064io 0pf+0w
+======================== gugdgb ==============================
+mar. avril  5 15:49:21 CEST 2016
+Activating /home/common/gamess14/gamess/source/gugdgb.src to create gugdgb.f for target linux64...
+mar. avril  5 15:49:22 CEST 2016
+0.549u 0.046s 0:01.28 45.3%	0+0k 0+776io 0pf+0w
+======================== gugdm ==============================
+mar. avril  5 15:49:23 CEST 2016
+Copying source code, gugdm.src does not require activation.
+mar. avril  5 15:49:23 CEST 2016
+0.262u 0.034s 0:00.66 43.9%	0+0k 0+520io 0pf+0w
+======================== gugdm2 ==============================
+mar. avril  5 15:49:23 CEST 2016
+Activating /home/common/gamess14/gamess/source/gugdm2.src to create gugdm2.f for target linux64...
+mar. avril  5 15:49:24 CEST 2016
+0.450u 0.030s 0:01.13 42.4%	0+0k 0+1056io 0pf+0w
+======================== gugdrt ==============================
+mar. avril  5 15:49:24 CEST 2016
+Copying source code, gugdrt.src does not require activation.
+mar. avril  5 15:49:26 CEST 2016
+1.341u 0.041s 0:02.02 68.3%	0+0k 0+1928io 0pf+0w
+======================== gugem ==============================
+mar. avril  5 15:49:26 CEST 2016
+Activating /home/common/gamess14/gamess/source/gugem.src to create gugem.f for target linux64...
+mar. avril  5 15:49:28 CEST 2016
+0.393u 0.043s 0:01.33 32.3%	0+0k 0+896io 0pf+0w
+======================== gugsrt ==============================
+mar. avril  5 15:49:28 CEST 2016
+Activating /home/common/gamess14/gamess/source/gugsrt.src to create gugsrt.f for target linux64...
+mar. avril  5 15:49:28 CEST 2016
+0.356u 0.022s 0:00.86 43.0%	0+0k 0+760io 0pf+0w
+======================== gvb ==============================
+mar. avril  5 15:49:29 CEST 2016
+Activating /home/common/gamess14/gamess/source/gvb.src to create gvb.f for target linux64...
+mar. avril  5 15:49:32 CEST 2016
+1.621u 0.059s 0:03.37 49.5%	0+0k 0+2704io 0pf+0w
+======================== hess ==============================
+mar. avril  5 15:49:32 CEST 2016
+Copying source code, hess.src does not require activation.
+mar. avril  5 15:49:36 CEST 2016
+2.569u 0.058s 0:03.97 65.7%	0+0k 0+3984io 0pf+0w
+======================== hss1a ==============================
+mar. avril  5 15:49:36 CEST 2016
+Copying source code, hss1a.src does not require activation.
+mar. avril  5 15:49:37 CEST 2016
+0.511u 0.028s 0:01.15 46.0%	0+0k 0+760io 0pf+0w
+======================== hss1b ==============================
+mar. avril  5 15:49:37 CEST 2016
+Copying source code, hss1b.src does not require activation.
+mar. avril  5 15:49:39 CEST 2016
+0.865u 0.027s 0:01.96 44.8%	0+0k 0+992io 0pf+0w
+======================== hss2a ==============================
+mar. avril  5 15:49:39 CEST 2016
+Activating /home/common/gamess14/gamess/source/hss2a.src to create hss2a.f for target linux64...
+mar. avril  5 15:49:49 CEST 2016
+5.208u 0.115s 0:09.58 55.4%	0+0k 0+4216io 0pf+0w
+======================== hss2b ==============================
+mar. avril  5 15:49:49 CEST 2016
+Copying source code, hss2b.src does not require activation.
+mar. avril  5 15:49:52 CEST 2016
+1.950u 0.052s 0:03.06 65.3%	0+0k 0+2216io 0pf+0w
+======================== inputa ==============================
+mar. avril  5 15:49:52 CEST 2016
+Activating /home/common/gamess14/gamess/source/inputa.src to create inputa.f for target linux64...
+mar. avril  5 15:50:00 CEST 2016
+4.856u 0.112s 0:08.54 58.0%	0+0k 0+4320io 0pf+0w
+======================== inputb ==============================
+mar. avril  5 15:50:00 CEST 2016
+Activating /home/common/gamess14/gamess/source/inputb.src to create inputb.f for target linux64...
+mar. avril  5 15:50:04 CEST 2016
+1.974u 0.055s 0:04.05 49.8%	0+0k 0+2712io 0pf+0w
+======================== inputc ==============================
+mar. avril  5 15:50:04 CEST 2016
+Copying source code, inputc.src does not require activation.
+mar. avril  5 15:50:05 CEST 2016
+0.385u 0.027s 0:00.88 45.4%	0+0k 0+624io 0pf+0w
+======================== int1 ==============================
+mar. avril  5 15:50:05 CEST 2016
+Copying source code, int1.src does not require activation.
+mar. avril  5 15:50:08 CEST 2016
+1.141u 0.055s 0:02.35 50.6%	0+0k 0+1088io 0pf+0w
+======================== int2a ==============================
+mar. avril  5 15:50:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/int2a.src to create int2a.f for target linux64...
+mar. avril  5 15:50:09 CEST 2016
+1.050u 0.035s 0:01.87 57.7%	0+0k 0+2392io 0pf+0w
+======================== int2b ==============================
+mar. avril  5 15:50:10 CEST 2016
+Copying source code, int2b.src does not require activation.
+mar. avril  5 15:50:12 CEST 2016
+1.168u 0.053s 0:02.47 48.9%	0+0k 0+1424io 0pf+0w
+======================== int2c ==============================
+mar. avril  5 15:50:12 CEST 2016
+Copying source code, int2c.src does not require activation.
+mar. avril  5 15:50:15 CEST 2016
+1.613u 0.049s 0:03.02 54.6%	0+0k 0+1784io 0pf+0w
+======================== int2d ==============================
+mar. avril  5 15:50:15 CEST 2016
+Copying source code, int2d.src does not require activation.
+mar. avril  5 15:50:22 CEST 2016
+4.103u 0.067s 0:06.86 60.6%	0+0k 0+3424io 0pf+0w
+======================== int2f ==============================
+mar. avril  5 15:50:22 CEST 2016
+Copying source code, int2f.src does not require activation.
+mar. avril  5 15:50:28 CEST 2016
+3.471u 0.077s 0:06.60 53.6%	0+0k 0+2880io 0pf+0w
+======================== int2g ==============================
+mar. avril  5 15:50:29 CEST 2016
+Copying source code, int2g.src does not require activation.
+mar. avril  5 15:50:32 CEST 2016
+1.662u 0.059s 0:03.27 52.2%	0+0k 0+1320io 0pf+0w
+======================== int2r ==============================
+mar. avril  5 15:50:32 CEST 2016
+Copying source code, int2r.src does not require activation.
+mar. avril  5 15:50:51 CEST 2016
+11.554u 0.090s 0:19.49 59.7%	0+0k 0+5768io 0pf+0w
+======================== int2s ==============================
+mar. avril  5 15:50:51 CEST 2016
+Copying source code, int2s.src does not require activation.
+mar. avril  5 15:51:05 CEST 2016
+7.624u 0.103s 0:13.60 56.7%	0+0k 0+4200io 0pf+0w
+======================== iolib ==============================
+mar. avril  5 15:51:05 CEST 2016
+Activating /home/common/gamess14/gamess/source/iolib.src to create iolib.f for target linux64...
+mar. avril  5 15:51:06 CEST 2016
+0.599u 0.051s 0:01.23 52.0%	0+0k 0+1808io 0pf+0w
+======================== ivocas ==============================
+mar. avril  5 15:51:06 CEST 2016
+Activating /home/common/gamess14/gamess/source/ivocas.src to create ivocas.f for target linux64...
+mar. avril  5 15:51:07 CEST 2016
+0.473u 0.039s 0:01.28 39.0%	0+0k 0+760io 0pf+0w
+======================== lagran ==============================
+mar. avril  5 15:51:07 CEST 2016
+Activating /home/common/gamess14/gamess/source/lagran.src to create lagran.f for target linux64...
+mar. avril  5 15:51:08 CEST 2016
+0.280u 0.032s 0:00.45 68.8%	0+0k 0+520io 0pf+0w
+======================== local ==============================
+mar. avril  5 15:51:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/local.src to create local.f for target linux64...
+mar. avril  5 15:51:11 CEST 2016
+1.733u 0.048s 0:03.24 54.6%	0+0k 0+3352io 0pf+0w
+======================== loccd ==============================
+mar. avril  5 15:51:11 CEST 2016
+Copying source code, loccd.src does not require activation.
+mar. avril  5 15:51:14 CEST 2016
+1.177u 0.036s 0:02.45 48.9%	0+0k 0+1024io 0pf+0w
+======================== locpol ==============================
+mar. avril  5 15:51:14 CEST 2016
+Activating /home/common/gamess14/gamess/source/locpol.src to create locpol.f for target linux64...
+mar. avril  5 15:51:15 CEST 2016
+0.961u 0.053s 0:01.59 63.5%	0+0k 0+2424io 0pf+0w
+======================== locsvd ==============================
+mar. avril  5 15:51:15 CEST 2016
+Copying source code, locsvd.src does not require activation.
+mar. avril  5 15:51:21 CEST 2016
+3.145u 0.071s 0:05.49 58.4%	0+0k 0+5560io 0pf+0w
+======================== lrd ==============================
+mar. avril  5 15:51:21 CEST 2016
+Copying source code, lrd.src does not require activation.
+mar. avril  5 15:51:22 CEST 2016
+0.526u 0.027s 0:01.02 52.9%	0+0k 0+560io 0pf+0w
+======================== mccas ==============================
+mar. avril  5 15:51:22 CEST 2016
+Activating /home/common/gamess14/gamess/source/mccas.src to create mccas.f for target linux64...
+mar. avril  5 15:51:24 CEST 2016
+1.760u 0.058s 0:02.35 77.0%	0+0k 0+1984io 0pf+0w
+======================== mcjac ==============================
+mar. avril  5 15:51:24 CEST 2016
+Copying source code, mcjac.src does not require activation.
+mar. avril  5 15:51:27 CEST 2016
+1.547u 0.047s 0:02.95 53.5%	0+0k 0+1400io 0pf+0w
+======================== mcpgrd ==============================
+mar. avril  5 15:51:27 CEST 2016
+Copying source code, mcpgrd.src does not require activation.
+mar. avril  5 15:51:37 CEST 2016
+5.393u 0.088s 0:10.22 53.5%	0+0k 0+4720io 0pf+0w
+======================== mcpinp ==============================
+mar. avril  5 15:51:37 CEST 2016
+Copying source code, mcpinp.src does not require activation.
+mar. avril  5 15:51:39 CEST 2016
+1.174u 0.055s 0:02.27 53.7%	0+0k 0+1536io 0pf+0w
+======================== mcpint ==============================
+mar. avril  5 15:51:39 CEST 2016
+Copying source code, mcpint.src does not require activation.
+mar. avril  5 15:51:40 CEST 2016
+0.413u 0.026s 0:00.63 68.2%	0+0k 0+496io 0pf+0w
+======================== mcpl10 ==============================
+mar. avril  5 15:51:40 CEST 2016
+Copying source code, mcpl10.src does not require activation.
+mar. avril  5 15:51:41 CEST 2016
+0.439u 0.036s 0:00.89 51.6%	0+0k 0+848io 0pf+0w
+======================== mcpl20 ==============================
+mar. avril  5 15:51:41 CEST 2016
+Copying source code, mcpl20.src does not require activation.
+mar. avril  5 15:51:43 CEST 2016
+1.141u 0.041s 0:02.38 49.5%	0+0k 0+1352io 0pf+0w
+======================== mcpl30 ==============================
+mar. avril  5 15:51:44 CEST 2016
+Copying source code, mcpl30.src does not require activation.
+mar. avril  5 15:51:47 CEST 2016
+2.026u 0.043s 0:04.00 51.5%	0+0k 0+1808io 0pf+0w
+======================== mcpl40 ==============================
+mar. avril  5 15:51:48 CEST 2016
+Copying source code, mcpl40.src does not require activation.
+mar. avril  5 15:51:53 CEST 2016
+3.027u 0.057s 0:05.34 57.4%	0+0k 0+2352io 0pf+0w
+======================== mcpl50 ==============================
+mar. avril  5 15:51:53 CEST 2016
+Copying source code, mcpl50.src does not require activation.
+mar. avril  5 15:51:55 CEST 2016
+1.276u 0.037s 0:01.81 71.8%	0+0k 0+1688io 0pf+0w
+======================== mcpl60 ==============================
+mar. avril  5 15:51:55 CEST 2016
+Copying source code, mcpl60.src does not require activation.
+mar. avril  5 15:52:00 CEST 2016
+2.794u 0.063s 0:05.73 49.7%	0+0k 0+2408io 0pf+0w
+======================== mcpl70 ==============================
+mar. avril  5 15:52:00 CEST 2016
+Copying source code, mcpl70.src does not require activation.
+mar. avril  5 15:52:08 CEST 2016
+4.311u 0.067s 0:07.60 57.5%	0+0k 0+3120io 0pf+0w
+======================== mcpl80 ==============================
+mar. avril  5 15:52:08 CEST 2016
+Copying source code, mcpl80.src does not require activation.
+mar. avril  5 15:52:14 CEST 2016
+2.864u 0.063s 0:05.60 52.1%	0+0k 0+2520io 0pf+0w
+======================== mcqdpt ==============================
+mar. avril  5 15:52:14 CEST 2016
+Activating /home/common/gamess14/gamess/source/mcqdpt.src to create mcqdpt.f for target linux64...
+mar. avril  5 15:52:36 CEST 2016
+12.253u 0.179s 0:22.82 54.4%	0+0k 0+10888io 0pf+0w
+======================== mcqdwt ==============================
+mar. avril  5 15:52:36 CEST 2016
+Copying source code, mcqdwt.src does not require activation.
+mar. avril  5 15:52:59 CEST 2016
+13.396u 0.105s 0:22.61 59.6%	0+0k 0+3392io 0pf+0w
+======================== mcqud ==============================
+mar. avril  5 15:52:59 CEST 2016
+Activating /home/common/gamess14/gamess/source/mcqud.src to create mcqud.f for target linux64...
+mar. avril  5 15:53:02 CEST 2016
+1.392u 0.061s 0:02.60 55.7%	0+0k 0+2704io 0pf+0w
+======================== mcscf ==============================
+mar. avril  5 15:53:02 CEST 2016
+Activating /home/common/gamess14/gamess/source/mcscf.src to create mcscf.f for target linux64...
+mar. avril  5 15:53:06 CEST 2016
+2.187u 0.069s 0:04.45 50.3%	0+0k 0+3712io 0pf+0w
+======================== mctwo ==============================
+mar. avril  5 15:53:06 CEST 2016
+Activating /home/common/gamess14/gamess/source/mctwo.src to create mctwo.f for target linux64...
+mar. avril  5 15:53:12 CEST 2016
+3.041u 0.066s 0:05.81 53.3%	0+0k 0+3144io 0pf+0w
+======================== mdefp ==============================
+mar. avril  5 15:53:12 CEST 2016
+Copying source code, mdefp.src does not require activation.
+mar. avril  5 15:53:17 CEST 2016
+2.915u 0.059s 0:04.76 62.1%	0+0k 0+4080io 0pf+0w
+======================== mexing ==============================
+mar. avril  5 15:53:17 CEST 2016
+Copying source code, mexing.src does not require activation.
+mar. avril  5 15:53:17 CEST 2016
+0.554u 0.034s 0:00.80 72.5%	0+0k 0+960io 0pf+0w
+======================== mltfmo ==============================
+mar. avril  5 15:53:18 CEST 2016
+Copying source code, mltfmo.src does not require activation.
+mar. avril  5 15:53:19 CEST 2016
+0.470u 0.035s 0:01.11 45.0%	0+0k 0+696io 0pf+0w
+======================== mm23 ==============================
+mar. avril  5 15:53:19 CEST 2016
+Copying source code, mm23.src does not require activation.
+mar. avril  5 15:53:49 CEST 2016
+17.999u 0.155s 0:30.66 59.1%	0+0k 0+10792io 0pf+0w
+======================== mnsol ==============================
+mar. avril  5 15:53:49 CEST 2016
+Copying source code, mnsol.src does not require activation.
+mar. avril  5 15:53:53 CEST 2016
+1.755u 0.055s 0:03.35 53.7%	0+0k 0+1496io 0pf+0w
+======================== morokm ==============================
+mar. avril  5 15:53:53 CEST 2016
+Activating /home/common/gamess14/gamess/source/morokm.src to create morokm.f for target linux64...
+mar. avril  5 15:53:54 CEST 2016
+0.390u 0.055s 0:01.03 42.7%	0+0k 0+1904io 0pf+0w
+======================== mp2 ==============================
+mar. avril  5 15:53:54 CEST 2016
+Activating /home/common/gamess14/gamess/source/mp2.src to create mp2.f for target linux64...
+mar. avril  5 15:53:56 CEST 2016
+1.650u 0.050s 0:02.42 70.2%	0+0k 0+2984io 0pf+0w
+======================== mp2ddi ==============================
+mar. avril  5 15:53:56 CEST 2016
+Copying source code, mp2ddi.src does not require activation.
+mar. avril  5 15:54:04 CEST 2016
+4.438u 0.077s 0:07.51 59.9%	0+0k 0+4096io 0pf+0w
+======================== mp2grd ==============================
+mar. avril  5 15:54:04 CEST 2016
+Activating /home/common/gamess14/gamess/source/mp2grd.src to create mp2grd.f for target linux64...
+mar. avril  5 15:54:09 CEST 2016
+2.884u 0.072s 0:05.26 56.0%	0+0k 0+3664io 0pf+0w
+======================== mp2gr2 ==============================
+mar. avril  5 15:54:09 CEST 2016
+Copying source code, mp2gr2.src does not require activation.
+mar. avril  5 15:54:14 CEST 2016
+2.391u 0.066s 0:04.92 49.7%	0+0k 0+2664io 0pf+0w
+======================== mp2ims ==============================
+mar. avril  5 15:54:14 CEST 2016
+Copying source code, mp2ims.src does not require activation.
+mar. avril  5 15:54:15 CEST 2016
+0.728u 0.046s 0:01.13 67.2%	0+0k 0+968io 0pf+0w
+======================== mpcdat ==============================
+mar. avril  5 15:54:15 CEST 2016
+Copying source code, mpcdat.src does not require activation.
+mar. avril  5 15:54:15 CEST 2016
+0.180u 0.023s 0:00.49 40.8%	0+0k 0+1120io 0pf+0w
+======================== mpcgrd ==============================
+mar. avril  5 15:54:16 CEST 2016
+Copying source code, mpcgrd.src does not require activation.
+mar. avril  5 15:54:19 CEST 2016
+1.936u 0.038s 0:03.23 60.6%	0+0k 0+920io 0pf+0w
+======================== mpcint ==============================
+mar. avril  5 15:54:19 CEST 2016
+Copying source code, mpcint.src does not require activation.
+mar. avril  5 15:54:21 CEST 2016
+0.822u 0.031s 0:02.11 40.2%	0+0k 0+1128io 0pf+0w
+======================== mpcmol ==============================
+mar. avril  5 15:54:21 CEST 2016
+Copying source code, mpcmol.src does not require activation.
+mar. avril  5 15:54:22 CEST 2016
+0.497u 0.029s 0:00.98 52.0%	0+0k 0+696io 0pf+0w
+======================== mpcmsc ==============================
+mar. avril  5 15:54:22 CEST 2016
+Copying source code, mpcmsc.src does not require activation.
+mar. avril  5 15:54:23 CEST 2016
+0.682u 0.040s 0:01.26 57.1%	0+0k 0+824io 0pf+0w
+======================== mpcpcm ==============================
+mar. avril  5 15:54:23 CEST 2016
+Copying source code, mpcpcm.src does not require activation.
+mar. avril  5 15:54:24 CEST 2016
+0.420u 0.048s 0:00.99 46.4%	0+0k 0+352io 0pf+0w
+======================== mpqcst ==============================
+mar. avril  5 15:54:24 CEST 2016
+Copying source code, mpqcst.src does not require activation.
+mar. avril  5 15:54:24 CEST 2016
+0.036u 0.015s 0:00.27 14.8%	0+0k 0+72io 0pf+0w
+======================== mthlib ==============================
+mar. avril  5 15:54:24 CEST 2016
+Compiling matrix multiply routines to use a system BLAS library...
+Activating /home/common/gamess14/gamess/source/mthlib.src to create mthlib.f for target linux64...
+mar. avril  5 15:54:27 CEST 2016
+1.491u 0.055s 0:02.58 59.6%	0+0k 0+3752io 0pf+0w
+======================== nameio ==============================
+mar. avril  5 15:54:27 CEST 2016
+Copying source code, nameio.src does not require activation.
+mar. avril  5 15:54:27 CEST 2016
+0.255u 0.028s 0:00.40 67.5%	0+0k 0+592io 0pf+0w
+======================== nbostb ==============================
+mar. avril  5 15:54:27 CEST 2016
+Copying source code, nbostb.src does not require activation.
+mar. avril  5 15:54:28 CEST 2016
+0.040u 0.018s 0:00.26 19.2%	0+0k 0+72io 0pf+0w
+======================== neostb ==============================
+mar. avril  5 15:54:28 CEST 2016
+Activating /home/common/gamess14/gamess/source/neostb.src to create neostb.f for target linux64...
+mar. avril  5 15:54:28 CEST 2016
+0.101u 0.030s 0:00.39 33.3%	0+0k 0+280io 0pf+0w
+======================== nmr ==============================
+mar. avril  5 15:54:28 CEST 2016
+Activating /home/common/gamess14/gamess/source/nmr.src to create nmr.f for target linux64...
+mar. avril  5 15:54:34 CEST 2016
+3.338u 0.092s 0:05.76 59.3%	0+0k 0+5544io 0pf+0w
+======================== optcix ==============================
+mar. avril  5 15:54:34 CEST 2016
+Copying source code, optcix.src does not require activation.
+mar. avril  5 15:54:35 CEST 2016
+0.410u 0.030s 0:00.88 50.0%	0+0k 0+872io 0pf+0w
+======================== ordint ==============================
+mar. avril  5 15:54:35 CEST 2016
+Activating /home/common/gamess14/gamess/source/ordint.src to create ordint.f for target linux64...
+mar. avril  5 15:54:35 CEST 2016
+0.235u 0.033s 0:00.73 35.6%	0+0k 0+496io 0pf+0w
+======================== ormas1 ==============================
+mar. avril  5 15:54:35 CEST 2016
+Copying source code, ormas1.src does not require activation.
+mar. avril  5 15:54:49 CEST 2016
+7.909u 0.094s 0:13.38 59.7%	0+0k 0+7392io 0pf+0w
+======================== ormpt2 ==============================
+mar. avril  5 15:54:49 CEST 2016
+Copying source code, ormpt2.src does not require activation.
+mar. avril  5 15:55:00 CEST 2016
+6.163u 0.099s 0:11.47 54.4%	0+0k 0+6344io 0pf+0w
+======================== parley ==============================
+mar. avril  5 15:55:00 CEST 2016
+Copying source code, parley.src does not require activation.
+mar. avril  5 15:55:02 CEST 2016
+0.982u 0.038s 0:01.67 60.4%	0+0k 0+1632io 0pf+0w
+======================== pcm ==============================
+mar. avril  5 15:55:02 CEST 2016
+Copying source code, pcm.src does not require activation.
+mar. avril  5 15:55:05 CEST 2016
+1.492u 0.044s 0:03.33 45.9%	0+0k 0+2392io 0pf+0w
+======================== pcmcav ==============================
+mar. avril  5 15:55:05 CEST 2016
+Copying source code, pcmcav.src does not require activation.
+mar. avril  5 15:55:07 CEST 2016
+1.030u 0.037s 0:01.78 59.5%	0+0k 0+1368io 0pf+0w
+======================== pcmcv2 ==============================
+mar. avril  5 15:55:07 CEST 2016
+Copying source code, pcmcv2.src does not require activation.
+mar. avril  5 15:55:15 CEST 2016
+4.467u 0.070s 0:08.31 54.5%	0+0k 0+2712io 0pf+0w
+======================== pcmder ==============================
+mar. avril  5 15:55:15 CEST 2016
+Copying source code, pcmder.src does not require activation.
+mar. avril  5 15:55:17 CEST 2016
+1.076u 0.038s 0:01.95 56.4%	0+0k 0+1512io 0pf+0w
+======================== pcmdis ==============================
+mar. avril  5 15:55:17 CEST 2016
+Copying source code, pcmdis.src does not require activation.
+mar. avril  5 15:55:19 CEST 2016
+0.615u 0.028s 0:01.21 52.0%	0+0k 0+680io 0pf+0w
+======================== pcmief ==============================
+mar. avril  5 15:55:19 CEST 2016
+Copying source code, pcmief.src does not require activation.
+mar. avril  5 15:55:24 CEST 2016
+3.477u 0.057s 0:05.81 60.5%	0+0k 0+2544io 0pf+0w
+======================== pcmpol ==============================
+mar. avril  5 15:55:24 CEST 2016
+Copying source code, pcmpol.src does not require activation.
+mar. avril  5 15:55:29 CEST 2016
+3.163u 0.048s 0:04.92 65.0%	0+0k 0+1592io 0pf+0w
+======================== pcmvch ==============================
+mar. avril  5 15:55:29 CEST 2016
+Copying source code, pcmvch.src does not require activation.
+mar. avril  5 15:55:31 CEST 2016
+0.798u 0.036s 0:01.78 46.0%	0+0k 0+720io 0pf+0w
+======================== prpamm ==============================
+mar. avril  5 15:55:31 CEST 2016
+Copying source code, prpamm.src does not require activation.
+mar. avril  5 15:55:32 CEST 2016
+0.356u 0.035s 0:00.79 48.1%	0+0k 0+480io 0pf+0w
+======================== prpel ==============================
+mar. avril  5 15:55:32 CEST 2016
+Copying source code, prpel.src does not require activation.
+mar. avril  5 15:55:34 CEST 2016
+1.085u 0.046s 0:02.24 50.0%	0+0k 0+2752io 0pf+0w
+======================== prplib ==============================
+mar. avril  5 15:55:34 CEST 2016
+Copying source code, prplib.src does not require activation.
+mar. avril  5 15:55:35 CEST 2016
+0.431u 0.027s 0:00.55 81.8%	0+0k 0+1152io 0pf+0w
+======================== prppop ==============================
+mar. avril  5 15:55:35 CEST 2016
+Copying source code, prppop.src does not require activation.
+mar. avril  5 15:55:40 CEST 2016
+3.011u 0.064s 0:05.27 58.2%	0+0k 0+3560io 0pf+0w
+======================== qeigen ==============================
+mar. avril  5 15:55:40 CEST 2016
+Copying source code, qeigen.src does not require activation.
+mar. avril  5 15:55:41 CEST 2016
+0.372u 0.045s 0:01.08 37.9%	0+0k 0+488io 0pf+0w
+======================== qfmm ==============================
+mar. avril  5 15:55:41 CEST 2016
+Copying source code, qfmm.src does not require activation.
+mar. avril  5 15:55:43 CEST 2016
+1.072u 0.040s 0:01.91 58.1%	0+0k 0+1504io 0pf+0w
+======================== qmfm ==============================
+mar. avril  5 15:55:43 CEST 2016
+Copying source code, qmfm.src does not require activation.
+mar. avril  5 15:55:48 CEST 2016
+2.705u 0.063s 0:05.02 54.9%	0+0k 0+3936io 0pf+0w
+======================== qmmm ==============================
+mar. avril  5 15:55:48 CEST 2016
+Activating /home/common/gamess14/gamess/source/qmmm.src to create qmmm.f for target linux64...
+mar. avril  5 15:55:48 CEST 2016
+0.069u 0.024s 0:00.37 21.6%	0+0k 0+152io 0pf+0w
+======================== qrel ==============================
+mar. avril  5 15:55:48 CEST 2016
+Copying source code, qrel.src does not require activation.
+mar. avril  5 15:55:51 CEST 2016
+1.825u 0.033s 0:03.01 61.4%	0+0k 0+2040io 0pf+0w
+======================== quanpo ==============================
+mar. avril  5 15:55:52 CEST 2016
+Copying source code, quanpo.src does not require activation.
+mar. avril  5 15:56:18 CEST 2016
+14.782u 0.225s 0:26.45 56.7%	0+0k 0+15624io 0pf+0w
+======================== raman ==============================
+mar. avril  5 15:56:18 CEST 2016
+Copying source code, raman.src does not require activation.
+mar. avril  5 15:56:19 CEST 2016
+0.271u 0.029s 0:00.79 36.7%	0+0k 0+528io 0pf+0w
+======================== rhfuhf ==============================
+mar. avril  5 15:56:19 CEST 2016
+Activating /home/common/gamess14/gamess/source/rhfuhf.src to create rhfuhf.f for target linux64...
+mar. avril  5 15:56:29 CEST 2016
+6.012u 0.119s 0:10.10 60.5%	0+0k 0+5408io 0pf+0w
+======================== ricab ==============================
+mar. avril  5 15:56:29 CEST 2016
+Copying source code, ricab.src does not require activation.
+mar. avril  5 15:56:34 CEST 2016
+2.703u 0.087s 0:04.95 56.1%	0+0k 0+6576io 0pf+0w
+======================== riint ==============================
+mar. avril  5 15:56:34 CEST 2016
+Copying source code, riint.src does not require activation.
+mar. avril  5 15:56:35 CEST 2016
+0.654u 0.031s 0:01.14 59.6%	0+0k 0+704io 0pf+0w
+======================== rimp2 ==============================
+mar. avril  5 15:56:35 CEST 2016
+Copying source code, rimp2.src does not require activation.
+mar. avril  5 15:56:38 CEST 2016
+1.910u 0.045s 0:03.24 60.1%	0+0k 0+3680io 0pf+0w
+======================== rmd ==============================
+mar. avril  5 15:56:38 CEST 2016
+Copying source code, rmd.src does not require activation.
+mar. avril  5 15:56:39 CEST 2016
+0.068u 0.024s 0:00.37 21.6%	0+0k 0+128io 0pf+0w
+======================== rmdgen ==============================
+mar. avril  5 15:56:39 CEST 2016
+Copying source code, rmdgen.src does not require activation.
+mar. avril  5 15:56:40 CEST 2016
+0.317u 0.032s 0:00.91 37.3%	0+0k 0+320io 0pf+0w
+======================== rmdwrk ==============================
+mar. avril  5 15:56:40 CEST 2016
+Copying source code, rmdwrk.src does not require activation.
+mar. avril  5 15:56:40 CEST 2016
+0.453u 0.030s 0:00.85 56.4%	0+0k 0+504io 0pf+0w
+======================== roeom ==============================
+mar. avril  5 15:56:40 CEST 2016
+Copying source code, roeom.src does not require activation.
+mar. avril  5 15:56:44 CEST 2016
+2.219u 0.052s 0:03.42 66.0%	0+0k 0+2904io 0pf+0w
+======================== rohfcc ==============================
+mar. avril  5 15:56:44 CEST 2016
+Activating /home/common/gamess14/gamess/source/rohfcc.src to create rohfcc.f for target linux64...
+mar. avril  5 15:56:46 CEST 2016
+0.668u 0.062s 0:01.70 42.3%	0+0k 0+2952io 0pf+0w
+======================== rxncrd ==============================
+mar. avril  5 15:56:46 CEST 2016
+Copying source code, rxncrd.src does not require activation.
+mar. avril  5 15:56:49 CEST 2016
+1.613u 0.064s 0:03.51 47.5%	0+0k 0+2024io 0pf+0w
+======================== ryspol ==============================
+mar. avril  5 15:56:49 CEST 2016
+Copying source code, ryspol.src does not require activation.
+mar. avril  5 15:56:50 CEST 2016
+0.326u 0.031s 0:00.82 42.6%	0+0k 0+888io 0pf+0w
+======================== scflib ==============================
+mar. avril  5 15:56:50 CEST 2016
+Copying source code, scflib.src does not require activation.
+mar. avril  5 15:56:54 CEST 2016
+2.295u 0.050s 0:04.10 57.0%	0+0k 0+2752io 0pf+0w
+======================== scfmi ==============================
+mar. avril  5 15:56:54 CEST 2016
+Copying source code, scfmi.src does not require activation.
+mar. avril  5 15:56:58 CEST 2016
+2.261u 0.071s 0:03.81 61.1%	0+0k 0+1552io 0pf+0w
+======================== scrf ==============================
+mar. avril  5 15:56:58 CEST 2016
+Copying source code, scrf.src does not require activation.
+mar. avril  5 15:56:59 CEST 2016
+0.638u 0.050s 0:01.62 41.9%	0+0k 0+784io 0pf+0w
+======================== sfdft ==============================
+mar. avril  5 15:57:00 CEST 2016
+Activating /home/common/gamess14/gamess/source/sfdft.src to create sfdft.f for target linux64...
+mar. avril  5 15:57:01 CEST 2016
+0.681u 0.039s 0:01.59 44.6%	0+0k 0+1344io 0pf+0w
+======================== sfgrad ==============================
+mar. avril  5 15:57:01 CEST 2016
+Copying source code, sfgrad.src does not require activation.
+mar. avril  5 15:57:04 CEST 2016
+1.734u 0.054s 0:03.19 55.7%	0+0k 0+2232io 0pf+0w
+======================== sobrt ==============================
+mar. avril  5 15:57:04 CEST 2016
+Copying source code, sobrt.src does not require activation.
+mar. avril  5 15:57:07 CEST 2016
+1.261u 0.050s 0:02.69 48.6%	0+0k 0+1728io 0pf+0w
+======================== soffac ==============================
+mar. avril  5 15:57:07 CEST 2016
+Copying source code, soffac.src does not require activation.
+mar. avril  5 15:57:08 CEST 2016
+0.363u 0.026s 0:00.58 65.5%	0+0k 0+808io 0pf+0w
+======================== solib ==============================
+mar. avril  5 15:57:08 CEST 2016
+Copying source code, solib.src does not require activation.
+mar. avril  5 15:57:10 CEST 2016
+1.120u 0.048s 0:01.99 58.2%	0+0k 0+2144io 0pf+0w
+======================== sozeff ==============================
+mar. avril  5 15:57:10 CEST 2016
+Copying source code, sozeff.src does not require activation.
+mar. avril  5 15:57:15 CEST 2016
+2.946u 0.068s 0:05.54 54.1%	0+0k 0+3288io 0pf+0w
+======================== statpt ==============================
+mar. avril  5 15:57:15 CEST 2016
+Copying source code, statpt.src does not require activation.
+mar. avril  5 15:57:22 CEST 2016
+3.583u 0.083s 0:07.02 52.1%	0+0k 0+4096io 0pf+0w
+======================== surf ==============================
+mar. avril  5 15:57:22 CEST 2016
+Copying source code, surf.src does not require activation.
+mar. avril  5 15:57:23 CEST 2016
+0.179u 0.026s 0:00.61 31.1%	0+0k 0+368io 0pf+0w
+======================== svpchg ==============================
+mar. avril  5 15:57:23 CEST 2016
+Copying source code, svpchg.src does not require activation.
+mar. avril  5 15:57:31 CEST 2016
+4.825u 0.077s 0:08.34 58.6%	0+0k 0+5504io 0pf+0w
+======================== svpinp ==============================
+mar. avril  5 15:57:31 CEST 2016
+Copying source code, svpinp.src does not require activation.
+mar. avril  5 15:57:33 CEST 2016
+0.947u 0.032s 0:01.54 62.9%	0+0k 0+2216io 0pf+0w
+======================== svpleb ==============================
+mar. avril  5 15:57:33 CEST 2016
+Copying source code, svpleb.src does not require activation.
+mar. avril  5 15:57:35 CEST 2016
+1.557u 0.085s 0:02.48 65.7%	0+0k 0+4104io 0pf+0w
+======================== symhi ==============================
+mar. avril  5 15:57:35 CEST 2016
+Copying source code, symhi.src does not require activation.
+mar. avril  5 15:57:41 CEST 2016
+4.016u 0.103s 0:05.40 76.1%	0+0k 0+3920io 0pf+0w
+======================== symorb ==============================
+mar. avril  5 15:57:41 CEST 2016
+Copying source code, symorb.src does not require activation.
+mar. avril  5 15:57:45 CEST 2016
+2.959u 0.046s 0:04.73 63.2%	0+0k 0+2352io 0pf+0w
+======================== symslc ==============================
+mar. avril  5 15:57:45 CEST 2016
+Copying source code, symslc.src does not require activation.
+mar. avril  5 15:57:53 CEST 2016
+4.993u 0.057s 0:07.80 64.6%	0+0k 0+2712io 0pf+0w
+======================== tddft ==============================
+mar. avril  5 15:57:53 CEST 2016
+Copying source code, tddft.src does not require activation.
+mar. avril  5 15:57:55 CEST 2016
+0.820u 0.034s 0:01.81 46.9%	0+0k 0+1304io 0pf+0w
+======================== tddefp ==============================
+mar. avril  5 15:57:55 CEST 2016
+Copying source code, tddefp.src does not require activation.
+mar. avril  5 15:57:56 CEST 2016
+0.674u 0.038s 0:01.49 46.9%	0+0k 0+440io 0pf+0w
+======================== tddfun ==============================
+mar. avril  5 15:57:57 CEST 2016
+Copying source code, tddfun.src does not require activation.
+mar. avril  5 15:57:59 CEST 2016
+1.815u 0.047s 0:02.89 64.0%	0+0k 0+1760io 0pf+0w
+======================== tddfxc ==============================
+mar. avril  5 15:57:59 CEST 2016
+Copying source code, tddfxc.src does not require activation.
+mar. avril  5 15:58:02 CEST 2016
+1.385u 0.039s 0:02.51 56.1%	0+0k 0+1088io 0pf+0w
+======================== tddgrd ==============================
+mar. avril  5 15:58:02 CEST 2016
+Copying source code, tddgrd.src does not require activation.
+mar. avril  5 15:58:04 CEST 2016
+1.020u 0.037s 0:02.05 51.2%	0+0k 0+1456io 0pf+0w
+======================== tddint ==============================
+mar. avril  5 15:58:04 CEST 2016
+Activating /home/common/gamess14/gamess/source/tddint.src to create tddint.f for target linux64...
+mar. avril  5 15:58:05 CEST 2016
+0.515u 0.039s 0:01.12 48.2%	0+0k 0+616io 0pf+0w
+======================== tddnlr ==============================
+mar. avril  5 15:58:05 CEST 2016
+Copying source code, tddnlr.src does not require activation.
+mar. avril  5 15:58:08 CEST 2016
+1.374u 0.052s 0:02.85 49.8%	0+0k 0+1616io 0pf+0w
+======================== tddxca ==============================
+mar. avril  5 15:58:08 CEST 2016
+Copying source code, tddxca.src does not require activation.
+mar. avril  5 15:59:21 CEST 2016
+41.810u 0.238s 1:13.04 57.5%	0+0k 0+2832io 0pf+0w
+======================== tddxcc ==============================
+mar. avril  5 15:59:21 CEST 2016
+Copying source code, tddxcc.src does not require activation.
+mar. avril  5 15:59:21 CEST 2016
+0.249u 0.022s 0:00.53 49.0%	0+0k 0+464io 0pf+0w
+======================== tddxcd ==============================
+mar. avril  5 15:59:22 CEST 2016
+Copying source code, tddxcd.src does not require activation.
+mar. avril  5 16:01:34 CEST 2016
+77.354u 0.276s 2:12.88 58.4%	0+0k 0+12688io 0pf+0w
+======================== tdhf ==============================
+mar. avril  5 16:01:35 CEST 2016
+Activating /home/common/gamess14/gamess/source/tdhf.src to create tdhf.f for target linux64...
+mar. avril  5 16:01:41 CEST 2016
+3.064u 0.078s 0:06.93 45.1%	0+0k 0+3016io 0pf+0w
+======================== tdx ==============================
+mar. avril  5 16:01:41 CEST 2016
+Copying source code, tdx.src does not require activation.
+mar. avril  5 16:01:43 CEST 2016
+0.868u 0.038s 0:02.17 41.0%	0+0k 0+1424io 0pf+0w
+======================== tdxio ==============================
+mar. avril  5 16:01:44 CEST 2016
+Copying source code, tdxio.src does not require activation.
+mar. avril  5 16:01:45 CEST 2016
+0.343u 0.033s 0:01.04 35.5%	0+0k 0+744io 0pf+0w
+======================== tdxitr ==============================
+mar. avril  5 16:01:45 CEST 2016
+Copying source code, tdxitr.src does not require activation.
+mar. avril  5 16:01:46 CEST 2016
+0.818u 0.037s 0:01.91 43.9%	0+0k 0+2240io 0pf+0w
+======================== tdxni ==============================
+mar. avril  5 16:01:47 CEST 2016
+Copying source code, tdxni.src does not require activation.
+mar. avril  5 16:01:49 CEST 2016
+1.438u 0.046s 0:02.46 59.7%	0+0k 0+3376io 0pf+0w
+======================== tdxprp ==============================
+mar. avril  5 16:01:49 CEST 2016
+Copying source code, tdxprp.src does not require activation.
+mar. avril  5 16:01:50 CEST 2016
+0.527u 0.042s 0:01.11 50.4%	0+0k 0+984io 0pf+0w
+======================== trans ==============================
+mar. avril  5 16:01:50 CEST 2016
+Activating /home/common/gamess14/gamess/source/trans.src to create trans.f for target linux64...
+mar. avril  5 16:01:53 CEST 2016
+1.564u 0.068s 0:02.99 54.1%	0+0k 0+2200io 0pf+0w
+======================== trfdm2 ==============================
+mar. avril  5 16:01:53 CEST 2016
+Activating /home/common/gamess14/gamess/source/trfdm2.src to create trfdm2.f for target linux64...
+mar. avril  5 16:01:55 CEST 2016
+0.804u 0.053s 0:01.64 51.8%	0+0k 0+1344io 0pf+0w
+======================== trnstn ==============================
+mar. avril  5 16:01:55 CEST 2016
+Copying source code, trnstn.src does not require activation.
+mar. avril  5 16:01:58 CEST 2016
+1.784u 0.040s 0:03.55 51.2%	0+0k 0+2512io 0pf+0w
+======================== trudge ==============================
+mar. avril  5 16:01:58 CEST 2016
+Copying source code, trudge.src does not require activation.
+mar. avril  5 16:02:00 CEST 2016
+0.713u 0.026s 0:01.47 49.6%	0+0k 0+848io 0pf+0w
+======================== umpddi ==============================
+mar. avril  5 16:02:00 CEST 2016
+Copying source code, umpddi.src does not require activation.
+mar. avril  5 16:02:08 CEST 2016
+4.456u 0.058s 0:07.98 56.3%	0+0k 0+3168io 0pf+0w
+======================== unport ==============================
+mar. avril  5 16:02:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/unport.src to create unport.f for target linux64...
+mar. avril  5 16:02:08 CEST 2016
+0.117u 0.028s 0:00.43 30.2%	0+0k 0+576io 0pf+0w
+======================== utddft ==============================
+mar. avril  5 16:02:08 CEST 2016
+Activating /home/common/gamess14/gamess/source/utddft.src to create utddft.f for target linux64...
+mar. avril  5 16:02:11 CEST 2016
+1.579u 0.054s 0:02.59 62.5%	0+0k 0+2480io 0pf+0w
+======================== vibanl ==============================
+mar. avril  5 16:02:11 CEST 2016
+Copying source code, vibanl.src does not require activation.
+mar. avril  5 16:02:15 CEST 2016
+2.211u 0.056s 0:04.65 48.6%	0+0k 0+2392io 0pf+0w
+======================== vscf ==============================
+mar. avril  5 16:02:16 CEST 2016
+Copying source code, vscf.src does not require activation.
+mar. avril  5 16:02:17 CEST 2016
+0.433u 0.044s 0:01.19 39.4%	0+0k 0+1408io 0pf+0w
+======================== vvos ==============================
+mar. avril  5 16:02:17 CEST 2016
+Copying source code, vvos.src does not require activation.
+mar. avril  5 16:02:19 CEST 2016
+1.187u 0.075s 0:02.52 49.6%	0+0k 0+4032io 0pf+0w
+======================== zapddi ==============================
+mar. avril  5 16:02:19 CEST 2016
+Copying source code, zapddi.src does not require activation.
+mar. avril  5 16:02:28 CEST 2016
+5.034u 0.060s 0:08.73 58.3%	0+0k 0+2528io 0pf+0w
+======================== zheev ==============================
+mar. avril  5 16:02:28 CEST 2016
+Copying source code, zheev.src does not require activation.
+mar. avril  5 16:02:29 CEST 2016
+0.293u 0.032s 0:00.85 37.6%	0+0k 0+1136io 0pf+0w
+======================== zmatrx ==============================
+mar. avril  5 16:02:29 CEST 2016
+Copying source code, zmatrx.src does not require activation.
+mar. avril  5 16:02:30 CEST 2016
+0.950u 0.043s 0:01.71 57.8%	0+0k 0+1568io 0pf+0w
+======================== vb2000 ==============================
+mar. avril  5 16:02:31 CEST 2016
+Copying vb2000.src from VB2000 directory named /home/common/gamess14/gamess/vb2000/SRC
+Copying source code, vb2000.src does not require activation.
+mar. avril  5 16:02:53 CEST 2016
+12.606u 0.270s 0:22.05 58.3%	0+0k 0+15952io 0pf+0w
+======================== vb2gms ==============================
+mar. avril  5 16:02:53 CEST 2016
+Copying vb2gms.src from VB2000 directory named /home/common/gamess14/gamess/vb2000/SRC
+Activating /home/common/gamess14/gamess/source/vb2gms.src to create vb2gms.f for target linux64...
+mar. avril  5 16:02:54 CEST 2016
+0.806u 0.045s 0:01.87 44.9%	0+0k 0+1728io 0pf+0w
+======================== vbdum ==============================
+mar. avril  5 16:02:54 CEST 2016
+Copying source code, vbdum.src does not require activation.
+mar. avril  5 16:02:54 CEST 2016
+0.038u 0.014s 0:00.06 66.6%	0+0k 0+80io 0pf+0w
+------------------- done with all compilations --------------------
+mar. avril  5 16:02:54 CEST 2016
+817.987u 17.221s 24:38.38 56.4%	0+0k 240+716400io 1pf+0w
